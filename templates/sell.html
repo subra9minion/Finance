@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Sell
+{% endblock %}
+
+{% block main %}
+    <form action="/sell" method="post">
+        <div class="form-group">
+            <select class="dropdown form-control" name="stock">
+                {% for row in rows %}
+                    <option>{{ row["stock"] }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="form-group">
+            <input class="form-control" type="text" name="shares" placeholder="shares">
+        </div>
+        <button class="btn btn-primary form-group" type="submit">Submit</button>
+    </form>
+{% endblock %}

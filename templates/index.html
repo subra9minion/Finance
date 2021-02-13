@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Index
+{% endblock %}
+
+{% block main %}
+    <table class="table table-striped">
+        <tr>
+            <th>Symbol</th>
+            <th>Name</th>
+            <th>Shares</th>
+            <th>Price</th>
+            <th>Total</th>
+        </tr>
+
+        {% for record in records %}
+            <tr>
+                <td>{{ record["symbol"] }}</td>
+                <td>{{ record["name"] }}</td>
+                <td>{{ record["shares"] }}</td>
+                <td>${{ record["price"] }}</td>
+                <td>${{ record["tprice"] }}</td>
+            </tr>
+
+        {% endfor %}
+
+        <tr>
+            <td>CASH</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>${{ cash }}</td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><strong>${{ gtprice }}</strong></td>
+        </tr>
+    </table>
+{% endblock %}

@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+    <div style="text-align: center">
+        <strong> A share of {{ lookup["name"] }} ({{ lookup["symbol"] }}), costs ${{ lookup["price"] }}. </strong>
+    </div>
+{% endblock %}
