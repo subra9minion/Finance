@@ -16,3 +16,7 @@ Investing in stocks can be scary. Getting familiar with the market and the volat
 1. Price charts and indicators.
 1. Track favourite stocks
 1. Daily report generation
+
+## License
+This project was made under CS50's Introduction to Computer Science, a course of study by HarvardX.<br>
+The course is licensed under a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
