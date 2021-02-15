@@ -6,11 +6,11 @@ Investing in stocks can be scary. Getting familiar with the market and the volat
 
 ## Features
 * **Register, login, logout** <br><br>
-  <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(156).png" width="65%"/>
-  <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(158).png" width="65%"/>
+  <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(156).png" width="75%"/>
+  <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(158).png" width="75%"/>
 * **Quote** - allows users to lookup a stock's current price <br><br>
-  <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(159).png" width="65%"/> 
-  <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(160).png" width="65%"/>
+  <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(159).png" width="75%"/> 
+  <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(160).png" width="75%"/>
 * **Buy** - enables users to buy stocks <br><br>
   <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(166).png" width="65%"/>
 * **Sell** - enables users to sell shares of stocks that they own <br><br>
