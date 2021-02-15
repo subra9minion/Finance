@@ -6,7 +6,7 @@ Investing in stocks can be scary. Getting familiar with the market and the volat
 
 ## Features
 * **Register, login, logout** <br><br>
-  <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(156).png" width="100%"/>
+  <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(158).png" width="100%"/>
 * **Quote** - allows users to lookup a stock's current price <br><br>
   <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(159).png" width="100%"/> 
   <img src="https://github.com/subra9minion/Finance/blob/master/Sample/Screenshot%20(160).png" width="100%"/>
